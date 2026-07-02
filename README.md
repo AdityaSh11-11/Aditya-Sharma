@@ -102,18 +102,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 ---
 
-# Featured Projects
-
-| Project                      | Description                     |
-| ---------------------------- | ------------------------------- |
-| 🤖 Machine Learning Projects | Real-world ML implementations   |
-| 📊 Data Analysis Dashboards  | Interactive business dashboards |
-| 📈 Predictive Analytics      | Forecasting & prediction        |
-| 🧠 Deep Learning             | Neural network models           |
-| 📉 Business Intelligence     | Insightful Power BI dashboards  |
-| 🐍 Python Automation         | Productivity & automation tools |
-
----
 
 # 2026 Goals
 
