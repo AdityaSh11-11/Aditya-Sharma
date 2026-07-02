@@ -6,10 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Aditya Sharma</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;AI+Enthusiast;Building+Intelligent+Solutions;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Machine+Learning+Engineer;Python+Developer;AI+Enthusiast;Building+Intelligent+Solutions;Always+Learning" />
 </p>
 
 <p align="center">
@@ -34,18 +32,17 @@
 ---
 
 # 💫 About Me
-
 class AdityaSharma:
 
-    def __init__(self):
+def __init__(self):
 
-        self.role = [
-            "Data Analyst",
-            "Machine Learning Engineer",
-            "Python Developer"
-        ]
+  self.role = [
+        "Data Analyst",
+        "Machine Learning Engineer",
+        "Python Developer"
+      ]
 
-        self.interests = [
+  self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Data Science",
@@ -54,7 +51,7 @@ class AdityaSharma:
             "MLOps"
         ]
 
-        self.currently_learning = [
+  self.currently_learning = [
             "LLMs",
             "AWS",
             "Docker",
@@ -62,11 +59,11 @@ class AdityaSharma:
             "Advanced Machine Learning"
         ]
 
-        self.goal = "Building AI solutions that solve real-world problems."
+  self.goal = "Building AI solutions that solve real-world problems."
 
----
+        
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
