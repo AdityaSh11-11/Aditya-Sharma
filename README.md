@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60" />
 </p>
 
-<p>
+<p align = "center">
 
 <a href="https://github.com/AdityaSh11-11">
 <img src="https://komarev.com/ghpvc/?username=AdityaSh11-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -35,7 +35,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 # Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/sharma11aditya/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -46,7 +46,7 @@ I'm always open to collaborating on innovative projects and exploring new techno
 </a>
 <hr>
 <a href="https://github.com/AdityaSh11-11">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/> Github 
 </a>
 
 </p>
