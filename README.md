@@ -54,13 +54,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 ---
 
 # Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,git,github&perline=6"/>
-
-</p>
-
 ### Data Analytics
 
 * Pandas
