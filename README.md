@@ -127,15 +127,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaSh11-11&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # Contribution Snake
 
@@ -146,30 +137,6 @@ I'm always open to collaborating on innovative projects and exploring new techno
 </p>
 
 > Requires the Snake GitHub Action.
-
----
-
-# WakaTime Statistics
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-# Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ---
 
@@ -226,4 +193,3 @@ I'm always open to collaborating on innovative projects and exploring new techno
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </p>
-```
