@@ -63,7 +63,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaSh11-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSh11-11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
